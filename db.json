@@ -1,0 +1,23 @@
+{
+  "contracts": [
+    {
+      "arbiter": "0x730909E92155A46A9b5B3D4eD1B1200D0a822004",
+      "beneficiary": "0xb9d539Aa38458a6E5fEAf579d81619e60854E614",
+      "ether": "0.01",
+      "isApproved": true,
+      "address": "0x299878f9a42056599e7B64F36CCcB9E5818dBcE2",
+      "network": "local",
+      "id": 1
+    },
+    {
+      "arbiter": "0x730909E92155A46A9b5B3D4eD1B1200D0a822004",
+      "beneficiary": "0xb9d539Aa38458a6E5fEAf579d81619e60854E614",
+      "ether": "0.001",
+      "isApproved": false,
+      "txnHash": "0x5d9213b36bc6baae57fc269ecef9672b48dab2e22cd9249fe3c52c195bb78383",
+      "address": "0x2F667F57b4B05cd14485b62b24a8D118D9ffBdEC",
+      "network": "rinkeby",
+      "id": 2
+    }
+  ]
+}
